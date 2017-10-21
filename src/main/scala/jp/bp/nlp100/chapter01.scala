@@ -1,3 +1,5 @@
+package jp.bp.nlp100
+
 import scala.util.Random
 
 object Chapter01 {

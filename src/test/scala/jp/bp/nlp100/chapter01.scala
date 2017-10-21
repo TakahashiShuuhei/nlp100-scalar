@@ -1,6 +1,13 @@
+package jp.bp.nlp100
+
+package jp.bp.nlp100
+
+
 import org.scalatest.{FunSuite, Matchers}
 
 import scala.collection.mutable
+
+
 import scala.util.Random
 
 /**
